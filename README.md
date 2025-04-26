@@ -16,9 +16,6 @@ Hey, I'm Soham — a 20-year-old CS major from India 🇮🇳, on a mission to b
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Soham8763&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Soham8763&icon=2&color=4)](https://visitcount.itsvg.in)
 
