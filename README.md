@@ -11,7 +11,7 @@ Hey, I'm Soham — a 20-year-old CS major from India 🇮🇳, on a mission to b
 ## 🧠 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Soham8763?ext=heatmap" alt="Leetcode Stats" style="width: 100%; max-width: 800px;" />
+  <img src="https://leetcard.jacoblin.cool/Soham8763?ext=heatmap" alt="Leetcode Stats" width="100%" height="350" />
 </p>
 
 ### ✍️ Random Dev Quote
