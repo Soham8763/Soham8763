@@ -5,7 +5,7 @@
 # 💫 About Me:
 Hey, I'm Soham — a 20-year-old CS major from India 🇮🇳, on a mission to build the future where <br>technology, art, and intelligence collide. I craft high-performance websites and apps packed with <br>breathtaking animations and 3D magic, making every project feel alive ✨. <br>I'm not just coding — I'm engineering experiences that people remember. With dreams of mastering Gen-AI and earning a Ph.D. in Mathematics, <br>I thrive at the intersection of logic and creativity 🚀. When I'm not developing <br>You'll find me behind a camera lens, capturing the world with the same obsession for detail 📸. Ordinary isn’t my thing — I build to inspire.
 
-[![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham8763&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Soham's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Soham8763&theme=github-compact)](https://github.com/Soham8763/github-readme-activity-graph)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@soham6342) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soham-ghosh-566305282/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/@______b__a__n______) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@miragetails) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soham7857@gmail.com)
