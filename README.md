@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Soham8763/Soham8763/main/banner.jpeg" alt="Cover Banner" width="100%" />
-</p>
-
 # 💫 About Me:
 Hey, I'm Soham — a 20-year-old CS major from India 🇮🇳, on a mission to build the future where <br>technology, art, and intelligence collide. I craft high-performance websites and apps packed with <br>breathtaking animations and 3D magic, making every project feel alive ✨. <br>I'm not just coding — I'm engineering experiences that people remember. With dreams of mastering Gen-AI and earning a Ph.D. in Mathematics, <br>I thrive at the intersection of logic and creativity 🚀. When I'm not developing <br>You'll find me behind a camera lens, capturing the world with the same obsession for detail 📸. Ordinary isn’t my thing — I build to inspire.
 
