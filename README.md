@@ -52,12 +52,6 @@ Aiming for Gen-AI mastery and (eventually) a PhD in Math. When I step away from 
 </p>
 
 
-## 🧠 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Soham8763?ext=heatmap" alt="Leetcode Stats"/>
-</p>
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
